@@ -1,0 +1,4 @@
+Parampreet	 Singh	 myEmail@gmail.com
+jerry	 smith	 Null@gmail.com
+rick	 sanchez	 tooSmartFor@email.com
+morty	 smith	 AhhJheeze@rick.com
